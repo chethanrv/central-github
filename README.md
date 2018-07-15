@@ -12,3 +12,6 @@ Issues Occurred During Shift:
 Ongoing Issues:
 
   There are currently no ongoing issues.
+ 
+ 
+ checking connections  
